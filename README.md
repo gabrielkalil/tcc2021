@@ -1,1 +1,2 @@
-# tcc2021
+# TCC 2021
+Repositório para armazenar o conteúdo do TCC. Um pipeline vai gerar os conteúdos no google drive conforme for sendo necessário, ou talvez uma versão em PDF para o orientador com as mudanças feitas.
