@@ -41,3 +41,4 @@ Estudar de que maneiras a Igreja Multiplicadora pode apoiar cristãos leigos em 
 A metodologia utilizada para o trabalho será a pesquisa bibliográfica através de livros e artigos científicos.
 
 # Referências Teóricas
+@greenEvangelizacaoNaIgreja2020
