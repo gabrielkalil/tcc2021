@@ -22,3 +22,5 @@ https://www.livrariamissoesnacionais.org.br/9-segredos-de-um-multiplicador-de-ig
 
 ### Recomendações Extra
 Ler os livros de plantação de igreja que forem possíveis
+
+>Citação feita pelo autor do livro nesta parte, dizendo que isso e aquilo.(@greenEvangelizacaoNaIgreja2020:p34)
