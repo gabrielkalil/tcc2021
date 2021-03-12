@@ -43,5 +43,28 @@ A metodologia utilizada para o trabalho será a pesquisa bibliográfica através
 # Referências Teóricas
 @greenEvangelizacaoNaIgreja2020
 
-# Capítulo 1
+# Sumário Proposto
 
+Idéias para a estrutura do tarbalho abaixo.
+# Capítulo 1
+Estudar o surgimento natural de Igrejas a partir da perseguição e dispersão na Igreja Primitiva
+## O surgimento da Igreja e dispersão
+## A igreja em Antioquia
+
+### Características e contexto global
+### A primeira entre os gentios
+### Fundada por missionários informais
+(Ligação para o próximo capítulo)
+# Capítulo 2
+Estudar alguns fatores modernos de dispersão dos dias atuais. O que está levando os cristãos profissionais para fora hoje?
+
+Aqui preciso procurar referências bibliográficas
+
+## Movimentos de pessoas na atualidade devido à globalização
+Explorar um pouco quais fatores tem levado isso a acontecer genericamente, com dados
+
+## Movimentos de profissionais
+
+Entrar um pouco no assunto dos profissionais em movimento uma vez que esses são o nosso grupo alvo para o trabalho (cristãos profissionais)
+
+# Capítulo 3
