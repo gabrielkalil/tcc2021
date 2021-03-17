@@ -81,6 +81,7 @@ Objetivo: Estudar de que maneiras os princípios da Igreja Multiplicadora podem 
 
 # Conclusão
 
+Sempre um elemento adicional 
 
 # Extras
 ## Literatura base
