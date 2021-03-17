@@ -1,4 +1,5 @@
 # Delimitação do Tema
+
 O movimento iniciado por Jesus através do Espírito Santo relatado nos Atos dos Apóstolos tem como primeira expressão a pregação pública de Pedro, onde muitos irmãos são acrescentados e surge uma Igreja que crescia diariamente. Em uma primeira fase, a pregação de massa é o instrumento de propagação da mensagem do Evangelho. Com o tempo, outros instrumentos são acrescentados e a Igreja já organizada, inicia o preparo, envio e sustento de missionários dedicados primordialmente à pregação do Evangelho e plantação de novas Igrejas.
 
 Entre estes dois momentos, existe a dispersão dos cristãos motivada pela perseguição relatada em Atos 11, movimento a partir do qual também surgiram igrejas com a de Antioquia (Atos 11:19-30). Esta Igreja, iniciada por cristãos comuns, é considerada a primeira igreja com foco nos gentios e base de lançamento para o projeto missionário do apóstolo Paulo.
@@ -43,31 +44,43 @@ A metodologia utilizada para o trabalho será a pesquisa bibliográfica através
 # Referências Teóricas
 @greenEvangelizacaoNaIgreja2020
 
-# Sumário Proposto
-
-Idéias para a estrutura do tarbalho abaixo.
 # Capítulo 1
-Estudar o surgimento natural de Igrejas a partir da perseguição e dispersão na Igreja Primitiva
+
+Objetivo: Estudar o surgimento natural de Igrejas a partir da perseguição e dispersão na Igreja Primitiva
+
 ## O surgimento da Igreja e dispersão
+
 ## A igreja em Antioquia
 
 ### Características e contexto global
 ### A primeira entre os gentios
-### Fundada por missionários informais
-(Ligação para o próximo capítulo)
+### Fundada por discípulos em movimento, missionários informais
+
 # Capítulo 2
-Estudar alguns fatores modernos de dispersão dos dias atuais. O que está levando os cristãos profissionais para fora hoje?
+
+Objetivo: Estudar alguns fatores modernos de dispersão dos dias atuais. O que está levando os cristãos profissionais para fora hoje?
 
 Aqui preciso procurar referências bibliográficas
 
-## Movimentos de pessoas na atualidade devido à globalização
-Explorar um pouco quais fatores tem levado isso a acontecer genericamente, com dados
+## O movimento de pessoas no mundo de hoje
 
-## Movimentos de profissionais
+## Movimentos modernos de *profissionais* pelo mundo
 
-Entrar um pouco no assunto dos profissionais em movimento uma vez que esses são o nosso grupo alvo para o trabalho (cristãos profissionais)
+## As relações entre os profissionais em movimento e a cultura, e religiões, assim como foi com os irmãos de Antioquia.
 
 # Capítulo 3
+
+Objetivo: Estudar de que maneiras os princípios da Igreja Multiplicadora podem ajudar neste processo de surgimento natural de Igrejas.
+
+## O que é Igreja Multiplicadora
+
+## Princípios da Igreja Multiplicadora
+
+## A partir do resgate destes princípios, como instrumentalizar os discípulos profissionais em trânsito para o cumprimento da grande comissão.
+
+
+# Conclusão
+
 
 # Extras
 ## Literatura base
