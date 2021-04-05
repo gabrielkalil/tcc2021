@@ -26,15 +26,13 @@ Nese contexto multi cultural, inovações na proclamação da boa nova começara
 
 ## Antioquia da Síria, a base de lançamento para missões gentílicas.
 
-Falar sobre a cidade, seu contexto multi étnico, etc.
+A base de lançamento para o projeto missionário entre os gentios foi a cidade de Antioquia da Síria, conforme [Atos 11:19-26,13:1-3], onde Lucas relata pela primeira vez a pregação do Evangelho para pessoas totalmente pagãs, uma mudança decisiva na história da igreja. A inovação foi aceita pela igreja de Jerusalém e confirmada pelo envio de Barnabé. Este fora comissionado para aprovar e comunicar à nova comunidade o entendimento de Jerusalém de que os gentios convertidos não precisavam cumprir os ritos da Lei de Israel, inclusive a circuncisão. A fé e o batismo eram suficientes para identificá-los com Jesus, independentemente de sua origem étnica. [GREEN 198].
+
+Antioquia era a capital da província da Síria, uma cidade extremamente cosmopolita. Apesar de ser de fundação grega, seus estimados 500.000 habitantes tinham origens variadas. A uma grande colônia de Judeus, se somavam habitantes oriundos da Pérsia, Índia, China, latinos. Gregos, judeus, orientais e romanos formavam uma combinação que levou o historiador Josephus a considerá-la a terceira cidade do império, atrás somente de Roma e Alexandria [STOTT_185]. A cidade apresentava um ambiente interessante para o alcançe dos gentios uma vez que as barreiras entre os judeus e eles eram muito tênues, haviam muitos convertidos ao judaísmo e os judeus tinham direitos de cidadãos. Por ser um dos grandes centros comerciais e uma das maiores cidades do império, desenvolvera relações comerciais por todo o mundo o que facilitava o trânsito de pessoas num contexto multi nacional e multi cultural, um literal ponto de convergência entre o Ocidente e o Oriente. Vários sistems de crença também se encontravam ali, desde o culto a Zeus e outros deuses gregos, Baal (de origem síria), religiões de mistério, entre outros.[GREEN 166,167]. Com um contexto cultural e religioso tão variado, Antioquia da Síria poderia ser facilmente  confundida com capitais Européias como Londres ou Berlin de nossos tempos.
+
+## Fundada por missionários informais
 
 Falar sobre características interessantes que possam ter a ver com o estudo
-
-
 (o pessoal foi parar em Antioquia mais o dna missionário estava dentro deles. A cidade e contexto deram oportunidade para a continuidade do trabalho)
-## Características e contexto global
-
-## A primeira entre os gentios
-## Fundada por missionários informais
 
 ## Conexão com proóximo capítulo (profissionais?)
