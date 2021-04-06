@@ -30,9 +30,21 @@ A base de lançamento para o projeto missionário entre os gentios foi a cidade 
 
 Antioquia era a capital da província da Síria, uma cidade extremamente cosmopolita. Apesar de ser de fundação grega, seus estimados 500.000 habitantes tinham origens variadas. A uma grande colônia de Judeus, se somavam habitantes oriundos da Pérsia, Índia, China, latinos. Gregos, judeus, orientais e romanos formavam uma combinação que levou o historiador Josephus a considerá-la a terceira cidade do império, atrás somente de Roma e Alexandria [STOTT_185]. A cidade apresentava um ambiente interessante para o alcançe dos gentios uma vez que as barreiras entre os judeus e eles eram muito tênues, haviam muitos convertidos ao judaísmo e os judeus tinham direitos de cidadãos. Por ser um dos grandes centros comerciais e uma das maiores cidades do império, desenvolvera relações comerciais por todo o mundo o que facilitava o trânsito de pessoas num contexto multi nacional e multi cultural, um literal ponto de convergência entre o Ocidente e o Oriente. Vários sistems de crença também se encontravam ali, desde o culto a Zeus e outros deuses gregos, Baal (de origem síria), religiões de mistério, entre outros.[GREEN 166,167]. Com um contexto cultural e religioso tão variado, Antioquia da Síria poderia ser facilmente  confundida com capitais Européias como Londres ou Berlin de nossos tempos.
 
-## Fundada por missionários informais
+## Fundada por missionários informais [TODO]
 
 Falar sobre características interessantes que possam ter a ver com o estudo
 (o pessoal foi parar em Antioquia mais o dna missionário estava dentro deles. A cidade e contexto deram oportunidade para a continuidade do trabalho)
+## Base fraca para valores
+
+Antioquia da Síria, ao sofrer influências gregas e romanas também tinham um sistema de crença em deuses que não eram mais do que "super humanos", não divindades. A falta de um deus infinito levava a uma dificuldade intelectual, a falta de um ponto de referência absoluto. Não havia nada imutável a partir do qual construir a vida. Seu sistema de valores, consequentemente não dava uma base forte para a construção de uma vida que fazia sentido, nem ao se combinar todos os seus deuses juntos. Esses deuses eram produto e dependentes da sociedade [SCHAEFFER 19]. A falta de referência era tanta que o povo romano aceitou a idéia de abandonar a república e aceitar um governo ditatorial de César Augusto. Segundo Plutarco, "os romanos colocaram César como ditador vita'licio na esperança de que o governo de uma pessoa única pudesse lhes dar tempo para respirar após tantas guerras civis e calamidades. Essa foi de fato, uma tirania autorizada, uma vez que o poder era agora não somente absoluto mas também perpétuo" [SCHAEFFER 19].
+
+Após o ano 12 BC (CE)?, Augusto recebeu o título de Pontifex Maximus, líder da religião do estado, conclamando o povo à adoração ao espírito de Roma e ao imperador, o que dentro de pouco tempo se tornou obrigatório e levou os imperadores romanos a serem venerados como deuses. A decadência espiritual e intelectual, levou também a uma decadência moral, sendo Antioquia criticada por autores seculares como Juvenal por sua fama de imoral. [GREEN 166]. Os imperadores tentaram novamente dar sentido para seus liderados. Augusto, por exemplo, se ocupou em atividades para definir valores morais e de vída familiar. Um deus humano, no entanto ainda, é finito, uma fundação insufienciente para uma vida de sentido e valor. [SCHAEFFER 20]. 
+
+O cenário espiritual e intelectual do império romano clamava por alguém maior do que a vida, e que pudesse dar para a vida o sentido e valor que não se encontrava em deuses super humanos ou em deuses humanos. A mensagem de um deus eterno, absoluto, criador e doador de vida, sentido e propósito, imanente e presente, não poderia ter deixado de causar um tremendo impacto. Chegou na hora certa, ou nas palavras do apóstolo Paulo, "na plenitude dos tempos" [GALATAS 4:4].
+
+
+
+
+
 
 ## Conexão com proóximo capítulo (profissionais?)
