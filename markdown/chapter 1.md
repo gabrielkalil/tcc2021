@@ -3,7 +3,7 @@
 Objetivo: Estudar o surgimento natural de Igrejas a partir da perseguição e dispersão na Igreja Primitiva
 ## O surgimento da Igreja
 
-A primeira vez que a palavra "igreja" aparece no Novo Testamento é na conversa entre Jesus e Pedro onde o primeiro afirma ser Jesus o "Cristo, o Filho do Deus vivo" ao que Jesus responde "Agora eu lhe digo que você é Pedro, e sobre esta pedra edificarei minha igreja (Mt 16.18)[NVTBIB]. Apesar de várias hipóteses e argumentos a respeito do real significado da "pedra", outras passages do Novo Testamento defendem a idéia de que o principal protagonista na fundação da Igreja é o próprio Jesus Cristo, como argumenta Paulo na carta aos Coríntios
+A primeira vez que a palavra "igreja" aparece no Novo Testamento é na conversa entre Jesus e Pedro onde o primeiro afirma ser Jesus o "Cristo, o Filho do Deus vivo" ao que Jesus responde "Agora eu lhe digo que você é Pedro, e sobre esta pedra edificarei minha igreja (Mt 16.18)[NVTBIB]. Apesar de várias hipóteses e argumentos a respeito do real significado da "pedra", outras passagens do Novo Testamento defendem a idéia de que o principal protagonista na fundação da Igreja é o próprio Jesus Cristo, como argumenta Paulo na carta aos Coríntios
 > pois ninguém pode lançar outro alicerce além daquele que já foi posto, isto é, Jesus Cristo.(1Co 3.11)[NVTBIB].
 
 bem como aos Efésios (Ef 2.20,21)[NVTBIB]. 
