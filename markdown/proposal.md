@@ -29,11 +29,11 @@ De que maneiras as ferramentas da Igreja Multiplicadora podem apoiar cristãos l
 
 ### Objetivo Geral
 
-Estudar de que maneiras a Igreja Multiplicadora pode apoiar cristãos leigos em transito global no cumprir da Grande Comissão.
+Estudar de que maneiras os princípios da Igreja Multiplicadora podem apoiar cristãos leigos em trânsito global no cumprimento da Grande Comissão para abrir e fortalecer igrejas.
 
 ### Objetivos Específicos
 
-* Estudar o surgimento natural de Igrejas a partir da perseguição e dispersão na Igreja Primitiva.
+* Estudar o surgimento natural de igrejas a partir da grande comissão e dos primeiros movimentos de dispersão na Igreja Primitiva.
 * Estudar alguns fatores modernos de dispersão dos dias atuais. O que está levando os cristãos para fora hoje?
 * Estudar de que maneiras os princípios da Igreja Multiplicadora podem ajudar neste processo de surgimento natural de Igrejas.
 
