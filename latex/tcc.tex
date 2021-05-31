@@ -18,6 +18,8 @@ english,french,spanish,brazil]{abntex2}
 \titleformat{\subsection}{\bfseries}{\thesubsection.}{1em}{} 
 \titleformat{\subsubsection}{}{\thesubsubsection.}{1em}{}
 
+\usepackage{tocloft}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 %Comandos especiais relacionados à classe 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
@@ -25,7 +27,7 @@ english,french,spanish,brazil]{abntex2}
 \titulo{Princípios da Igreja Multiplicadora aplicados na vida de profissionais em movimento global para abertura de frentes evangelizadores e/ou fortalecimento de igrejas} 
 \data{2021} 
 \local{CURITIBA} 
-\preambulo{Trabalho de Conclusão de Curso, apresentado ao Curso de Bacharel em Teologia a distância pelas Faculdades Batista do Paraná, como requisito para a obtenção do título de Bacharel em Teologia.\\\\Orientador: Marcos Paulo Ferreira} 
+\preambulo{Trabalho de Conclusão de Curso, apresentado ao Curso de Bacharel em Teologia a distância pelas Faculdades Batista do Paraná, como requisito parcial para a obtenção do título de Bacharel em Teologia.\\\\Orientador: Prof. M.e Marcos Paulo Ferreira} 
 \orientador{Marcos Paulo Ferreira} 
 \tipotrabalho{monografia} 
 
@@ -57,7 +59,7 @@ english,french,spanish,brazil]{abntex2}
     \center
     \ABNTEXchapterfont\Large FACULDADES BATISTA DO PARANÁ
 
-    \vspace*{1,5cm}
+    \vspace*{5,5cm}
     \MakeUppercase{{\ABNTEXchapterfont\large\imprimirautor}}
     \vfill
     \begin{center}
@@ -114,8 +116,8 @@ english,french,spanish,brazil]{abntex2}
 % Início do resumo - obrigatório 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 \begin{resumo} 
-	Jesus iniciou um movimento global de discípulos a partir da Grande Comissão, apresentada em Mateus 28. Os primeiros discípulos começaram a fazer discípulos, mas o "ir" foi iniciado a partir de uma perseguição, que os dispersou pelo mundo. Em Antioquia da Síria, a primeira comunidade entre não judeus foi fundada por discípulos leigos a partir do seu testemunho e proclamação do Evangelho, mensagem que alcançou os nossos tempos. Hoje também, muitos perfis de pessoas estão em movimento global, dentre os quais, discípulos com perfil profissional. A Igreja Multiplicadora, movimento batista de resgate de princípios bíblicos de discipulado e evangelização pode, através de seus princípios, inspirar esses discípulos profissionais em trânsito global a cumprirem o seu chamado, assim como os discípulos de Antioquia. O presente trabalho se propõe a apresentar esses três elementos: discípulos leigos fundando a igreja de Antioquia, os movimentos globais de migrantes com ênfase nos profissionais, e os princípios da Igreja Multiplicadora aplicados a discípulos com esse perfil profissional global.
-
+	Jesus iniciou um movimento global de discípulos a partir da Grande Comissão, apresentada em Mateus 28. Os primeiros discípulos começaram a fazer discípulos, mas o "ir" foi iniciado a partir de uma perseguição, que os dispersou pelo mundo. Em Antioquia da Síria, a primeira comunidade entre não judeus foi fundada por discípulos leigos a partir do seu testemunho e proclamação do Evangelho, mensagem que alcançou os nossos tempos. Hoje também, muitos perfis de pessoas estão em movimento global, dentre os quais, discípulos com perfil profissional. A Igreja Multiplicadora, movimento da Junta de Missões Nacionais da Convenção Batista Brasileira, busca o resgate de princípios bíblicos de discipulado e evangelização pode, através de seus princípios, inspirar esses discípulos profissionais em trânsito global a cumprirem o seu chamado, assim como os discípulos de Antioquia. O presente trabalho se propõe a apresentar esses três elementos: discípulos leigos fundando a igreja de Antioquia, os movimentos globais de migrantes com ênfase nos profissionais, e os princípios da Igreja Multiplicadora aplicados a discípulos com esse perfil profissional global.
+  
 \vspace{\onelineskip} 
 \noindent 
 \textbf{Palavras-chave}: Discipulado; Antioquia da Síria; Evangelização; Igreja Multiplicadora; Profissionais globais; migrantes.
@@ -126,7 +128,7 @@ english,french,spanish,brazil]{abntex2}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 \begin{resumo}[Abstract] 
 \begin{otherlanguage*}{english}
-	Jesus started a global movement of disciples from the Great Commission, presented in Matthew 28. The first disciples began to make disciples, but the physical aspect only from a persecution, which scattered them throughout the world. In Antioch of Syria, the first community among non-Jews was founded by lay disciples based on their testimony and proclamation of the Gospel, a message that has reached our times. Today, too, many people are on a global movement, including disciples with a professional profile. The Multiplier Church, a Baptist movement to rescue biblical principles of discipleship and evangelism, can, through its principles, inspire these professional disciples in global transit to fulfill their calling, after the disciples of Antioch. The present work aims to present these three elements: lay disciples founding the church in Antioch, the global migrant movements with an emphasis on professionals, and the principles of the Multiplier Church applied to disciples with this global professional profile.
+	Jesus started a global movement of disciples from the Great Commission, presented in Matthew 28. The first disciples started to make disciples, but going to other nations initiated out of persecution, which dispersed them throughout the world. In Antioch of Syria, the first community among non-Jews was founded by lay disciples based on their testimony and proclamation of the Gospel, a message that has reached us. Today too, many people are on the move globally, among them, disciples with a professional profile. The Multiplier Church, a movement of the National Missions Organization of the Brazilian Baptist Convention, seeks to rescue biblical principles of discipleship and evangelization and can, through its principles, inspire these professional disciples in global transit to fulfill their calling, after the disciples of Antioch. The present work presents these three elements: lay disciples founding the church of Antioch, the global migrant movements with an emphasis on professionals, and the principles of the Multiplier Church applied to disciples with this global professional profile.
 
 \vspace{\onelineskip} 
 
@@ -140,17 +142,16 @@ english,french,spanish,brazil]{abntex2}
 
 \tableofcontents* % imprime sumário
 
-\textual
 
 \chapter*{Introdução}
+\addcontentsline{toc}{chapter}{INTRODUÇÃO}  
 
-O movimento iniciado por Jesus através do Espírito Santo, relatado nos Atos dos Apóstolos tem como primeira expressão a pregação pública de Pedro, onde muitos irmãos são acrescentados e surge uma igreja que crescia diariamente. Em uma primeira fase, a pregação de massa é o instrumento de propagação da mensagem do Evangelho. Com o tempo, outros instrumentos são acrescentados e a igreja já organizada, inicia o preparo, envio e sustento de missionários dedicados primordialmente à pregação do Evangelho e plantação de novas Igrejas. 
-
-Entre estes dois momentos, existe a dispersão dos cristãos motivada pela perseguição relatada em Atos 11, movimento a partir do qual também surgiram igrejas com a de Antioquia (Atos 11:19-30). Tal igreja, iniciada por cristãos comuns, é considerada a primeira igreja com foco nos gentios e base de lançamento para o projeto missionário do apóstolo Paulo.
+O movimento iniciado por Jesus, relatado nos Atos dos Apóstolos tem como primeira expressão a pregação pública de Pedro, onde muitos irmãos são acrescentados e surge uma igreja que crescia diariamente. Em uma primeira fase, a pregação de massa é o instrumento de propagação da mensagem do Evangelho. Com o tempo, outros instrumentos são acrescentados e a igreja já organizada, inicia o preparo, envio e sustento de missionários dedicados primordialmente à pregação do Evangelho e plantação de novas Igrejas. Entre estes dois momentos, existe a dispersão dos cristãos motivada pela perseguição relatada em Atos 11, movimento a partir do qual também surgiram igrejas com a de Antioquia (Atos 11:19-30). Tal igreja, iniciada por cristãos comuns, é considerada a primeira igreja com foco nos gentios e base de lançamento para o projeto missionário do apóstolo Paulo.
 	
-Os dias atuais também veem um movimento de dispersão de cristãos leigos pelo mundo. Desta vez, no entanto, existem vários outros fatores envolvidos:  funcionários expatriados de empresas globais, estudantes em intercâmbio, militares em serviço, refugiados, famílias e indivíduos em busca de melhores condições de vida, entre outros. Também em nossos dias, e a partir da denominação batista brasileira, nasceu um movimento de multiplicação de discípulos e igrejas, resgatando princípios bíblicos exercidos pelos primeiros discípulos, como por exemplo a evangelização discipuladora, plantação de igrejas, entre outros. Esse movimento é chamado de "Igreja Multiplicadora", cujos princípios são aplicáveis em termos gerais, local e global.
+Os dias atuais também veem um movimento de dispersão de cristãos leigos pelo mundo. Desta vez, no entanto, existem vários outros fatores envolvidos:  funcionários expatriados de empresas globais, estudantes em intercâmbio, militares em serviço, refugiados, famílias e indivíduos em busca de melhores condições de vida, entre outros. Também em nossos dias, e a partir da Junta de Missões Nacionais da Convenção Batista Brasileira, nasceu um movimento de multiplicação de discípulos e igrejas, a partir de princípios bíblicos exercidos pelos primeiros discípulos. Esse movimento é chamado de "Igreja Multiplicadora", cujos princípios são aplicáveis em termos gerais, local e global.
 
 No primeiro capítulo, este trabalho apresenta um breve estudo sobre o nascimento orgânico da igreja de Antioquia da Síria, enfatizando o perfil dos discípulos e seu trabalho evangelístico, embora leigos. Já no segundo capítulo, serão observados os principais fatores de dispersão global e o perfil dos migrantes profissionais em movimento na atualidade. Por final, o terceiro capítulo conclui apresentando o movimento da Igreja Multiplicadora e seus princípios, refletindo sobre como tais princípios podem ser aplicados por discípulos profissionais em trânsito global, no sentido de abrir novas frentes evangelizadoras ou fortalecer igrejas já estabelecidas.
+
 
 \chapter{O surgimento da Igreja e os discípulos em movimento evangelizador}
 
@@ -279,7 +280,7 @@ O comissionamento de Jesus para uma vida de movimento e fazer novos discípulos 
 
 \section{Igreja Multiplicadora}
 
-A Igreja Multiplicadora é uma visão nascida na denominação batista brasileira e que busca desenvolver multiplicação intencional de discípulos baseada em princípios bíblicos como oração, evangelização discipuladora, plantação de igrejas, formação de líderes e compaixão e graça \cite{igrejaMultiplicVisaoSite}. Em outras palavras, 
+A Igreja Multiplicadora é uma visão nascida na Junta de Missões Nacionais da Convenção Batista Brasileira, e que busca desenvolver multiplicação intencional de discípulos baseada em princípios bíblicos como oração, evangelização discipuladora, plantação de igrejas, formação de líderes e compaixão e graça. Em outras palavras, 
 
 \begin{citacao}sermos bênção a partir de onde estamos para alcançar as nações por meio de um grande movimento de multiplicação de discípulos e igrejas é o grande objetivo da visão de Igreja Multiplicadora \cite[p. 19]{freitas}.\end{citacao}
 
@@ -400,7 +401,7 @@ Podemos observar que as primeiras igrejas tinham muita clareza sobre sua identid
 
 Os discípulos em movimento global, inspirados pelo exemplo de Jesus, tem muitas oportunidades de demonstrar compaixão e justiça, de exercer o serviço cristão. Oportunidades de testemunho surgem durante o serviço na comunidade: É possível participar da equipe de pais que vai fazer a limpeza das salas de aula da escola dos filhos, comprar comida em um restaurante que pertence a refugiados de maneira a deliberadamente ajudá-los, acolher em sua casa um migrante solitário que se conheceu durante as compras no super mercado, entre tantos outros. Assim como os discípulos de Antioquia que abriram caminho para o evangelho entre os gentios, é necessário um coração sensível, olhos abertos, ouvidos atentos para perceber e explorar as oportunidades ao nosso redor. Além disso, é preciso uma mente aberta e criativa para se aproveitar bem cada situação, em tempo e fora de tempo, na igreja, em casa, no parque, na café dentro da estação de trem. Da mesma maneira que os primeiros discípulos não se deixaram intimdar por barreiras físicas, culturais ou sociais, também através de nós o Evangelho pode ser pregado a todas as pessoas, até os confis da terra, um discípulo de cada vez.
 
-\chapter*{Conclusão}
+\chapter*{Considerações Finais}
 
 O movimento iniciado por Jesus Cristo levou discípulos dispersos em Antioquia da Síria a serem testemunhas e, cumprindo seu chamado, fazer discípulos multiplicadores, iniciando a pregação do Evangelho entre os gentios. Esse grupo de discípulos leigos serviu de plataforma para o trabalho missionário do apóstolo Paulo. 
 
